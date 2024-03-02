@@ -1,0 +1,24 @@
+{
+  "name": "get-page-sourcecode",
+  "version": "1.0.0",
+  "description": "simple code to get source code of any website in console",
+  "main": "run.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/20dec/get_page_sourcecode.git"
+  },
+  "author": "20dec",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/20dec/get_page_sourcecode/issues"
+  },
+  "homepage": "https://github.com/20dec/get_page_sourcecode#readme"
+}
