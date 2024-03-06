@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/20dec/get_page_sourcecode.git"
+    "url": "https://github.com/20dec/get_page_sourcecode.git"
   },
   "author": "20dec",
   "license": "ISC",
