@@ -1,4 +1,4 @@
-simple code to get source code of any website in console
+Simple code to get source code of any website in console
 
 Upload run.js to your vps
 
